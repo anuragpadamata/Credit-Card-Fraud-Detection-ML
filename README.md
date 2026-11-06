@@ -53,8 +53,8 @@ The practical goal is to deploy an automated classification pipeline capable of 
 
 ## c. GitHub Repository Link [ 1 Mark ]
 
-- **GitHub Repository URL**: [https://github.com/PADAMATA-ANURAG/Credit-Card-Fraud-Detection-ML](https://github.com/PADAMATA-ANURAG/Credit-Card-Fraud-Detection-ML)
-- **Live Streamlit App URL**: [https://credit-card-fraud-detection-2026.streamlit.app/](https://credit-card-fraud-detection-2026.streamlit.app/)
+- **GitHub Repository URL**: [https://github.com/anuragpadamata/Credit-Card-Fraud-Detection-ML](https://github.com/anuragpadamata/Credit-Card-Fraud-Detection-ML)
+- **Live Streamlit App URL**: [https://creditcardfrauddetectionanuragpadamata.streamlit.app/](https://creditcardfrauddetectionanuragpadamata.streamlit.app/)
 
 ### Complete Repository Structure:
 ```
